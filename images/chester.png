@@ -1,0 +1,125 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500&amp;display=swap">
+<link rel="stylesheet" href="https://qolhub.vip/images/css/style.css">
+<link rel="icon" href="https://qolhub.vip/images/images/chester.png">
+<title>QOL Hub - Official Website</title>
+<meta name="description" content="Safe links to official downloads">
+<meta name="keywords" content="shadyaddons,skyblock,cheat,mod,forge,client,oringo client,rosegold,rga,kelv client,hael,hael9">
+</head>
+<body>
+<main id="other-mods">
+<section class="hero h2">
+<h1>QOL HUB</h1>
+<h2>Safe links to official downloads</h2>
+</section>
+<section class="mods">
+<div class="mod">
+<h2>PizzaClient</h2>
+<div class="links">
+<a href="../download/PizzaClient.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/PizzaClient.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>Cheeto Sigma</h2>
+<div class="links">
+<a href="../download/Chroma-HUD.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/Chroma-HUD.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>SimpleScripts</h2>
+<div class="links">
+<a href="../download/SimpleScripts.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/SimpleScripts.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>Fork Private</h2>
+<div class="links">
+<a href="../download/ForkPrivate.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/ForkPrivate.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>ShadyAddons</h2>
+<div class="links">
+<a href="../download/ShadyAddons.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/ShadyAddons.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>OringoClient</h2>
+<div class="links">
+<a href="../download/OringoClient.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/OringoClient.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>NotEnoughRacism</h2>
+<div class="links">
+<a href="../download/NotEnoughRacism.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/NotEnoughRacism.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>IllegalMap</h2>
+<div class="links">
+<a href="../download/IllegalMap.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/IllegalMap.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>GonzuCore</h2>
+<div class="links">
+<a href="../download/GonzuCore.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/GonzuCore.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>Farm Builder</h2>
+<div class="links">
+<a href="../download/FarmBuilder.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/FarmBuilder.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>Auction Flipper</h2>
+<div class="links">
+<a href="../download/AHFlipper.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/AHFlipper.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>Bazaar Flipper</h2>
+<div class="links">
+<a href="../download/BZFlipper.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/BZFlipper.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>PizzaClient Supporter</h2>
+<div class="links">
+<a href="../download/Pizza_Client-Supporter.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/Pizza_Client-Supporter.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+<div class="mod">
+<h2>OringoClient Supporter</h2>
+<div class="links">
+<a href="../download/OringoClientSupporter.jar" download><i class="fas fa-download"></i>Download</a>
+<a href="../download/OringoClientSupporter.jar" download><i class="fab fa-github"></i>GitHub</a>
+</div>
+</div>
+</main>
+<footer id="footer">
+<p>© 2022 QOL HUB</p>
+</footer>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" data-cf-beacon="{" rayId":"70ddd1070c3d9794","version":"2021.12.0","r":1,"token":"4635d491e221478ca210c23e586e52bd","si":100}" crossorigin="anonymous"></script>
+
+</body></html>
